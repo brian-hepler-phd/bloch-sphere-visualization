@@ -42,8 +42,6 @@ To create an interactive tool for visualizing the dynamics of a single qubit on 
 ![Bloch Sphere Trajectory GIF](img/bloch_evolution.gif)
 *Figure 1: Animated GIF showing the trajectory of the |0⟩ state (initially pointing up along Z) evolving on the Bloch sphere under the action of $G^t = \exp(t \log G)$ for a selected gate G (e.g., Hadamard H) as t goes from 0 to 1.*
 
-![Bloch Sphere Static Example](img/bloch_static.png)
-*Figure 2: Static image showing the Bloch sphere, axes, initial state |0⟩, final state after applying gate G (t=1), and the path taken during the evolution.*
 
 ## Theoretical Background
 
