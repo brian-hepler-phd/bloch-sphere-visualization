@@ -2,9 +2,7 @@
 
 > Developed as supplemental material for Quantum Formalism's "[Lie Groups with Applications](https://quantumformalism.academy/lie-groups-with-applications)" course (Lectures 2).
 
-> **Note:** *Project code developed under contract for Quantum Formalism and will be made publicly available in the official Quantum Formalism repository soon. This repository provides a description, key concepts, and visuals of the project.*
-
-> *See my full portfolio at: [https://bhepler.com/portfolio/](https://brainhelper.wordpress.com/data-science-portfolio/)*
+> *See my full portfolio at: [https://bhepler.com/portfolio/](https://bhepler.com/portfolio)*
 
 ## Goal
 
